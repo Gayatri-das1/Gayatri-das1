@@ -5,3 +5,4 @@
 <h3 align="center">I am a noob 
 coder. Learning javascript and Typescript 👀.</h3>
 
+I'm here to learn everything!!
